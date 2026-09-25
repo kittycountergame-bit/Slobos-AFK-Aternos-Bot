@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "AssignmentSMP.aternos.me",
-    "port":46695,
+    "port": 46695,
     "version": "",
     "try-creative": false
   },
